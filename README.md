@@ -1,3 +1,3 @@
 # system-design
-[messenger](system/messenger.md)
-[yelp](system/yelp.md)
+1. [messenger](system/messenger.md)
+1. [yelp](system/yelp.md)
